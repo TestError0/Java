@@ -20,8 +20,11 @@ public class Array {
 		int sum = marks[0] + marks[1];
 		System.out.println(sum);
 		
+		int sum1 = marks[3] + marks[4];
+		System.out.println(sum1);
 		int len = marks.length;
 		System.out.println("Array size = " +len);
+		
 	}
 
 }
